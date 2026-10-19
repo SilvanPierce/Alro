@@ -16,7 +16,7 @@
     
     // Create a big floating banner at the top center
     const banner = document.createElement('div');
-    banner.innerHTML = "👋 Hello World! (Version 1.0.0)";
+    banner.innerHTML = "👋 Hello World!!!!!!!!!!!!! (Version 1.0.0)";
     banner.style.position = 'fixed';
     banner.style.top = '20px';
     banner.style.left = '50%';
